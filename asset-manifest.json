@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-creating-a-table/static/css/main.63e43297.chunk.css",
+    "main.js": "/react-creating-a-table/static/js/main.640deb0b.chunk.js",
+    "main.js.map": "/react-creating-a-table/static/js/main.640deb0b.chunk.js.map",
+    "runtime-main.js": "/react-creating-a-table/static/js/runtime-main.176e4655.js",
+    "runtime-main.js.map": "/react-creating-a-table/static/js/runtime-main.176e4655.js.map",
+    "static/js/2.c62006b6.chunk.js": "/react-creating-a-table/static/js/2.c62006b6.chunk.js",
+    "static/js/2.c62006b6.chunk.js.map": "/react-creating-a-table/static/js/2.c62006b6.chunk.js.map",
+    "index.html": "/react-creating-a-table/index.html",
+    "static/css/main.63e43297.chunk.css.map": "/react-creating-a-table/static/css/main.63e43297.chunk.css.map",
+    "static/js/2.c62006b6.chunk.js.LICENSE.txt": "/react-creating-a-table/static/js/2.c62006b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.176e4655.js",
+    "static/js/2.c62006b6.chunk.js",
+    "static/css/main.63e43297.chunk.css",
+    "static/js/main.640deb0b.chunk.js"
+  ]
+}
